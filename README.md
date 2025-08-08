@@ -1,2 +1,0 @@
-# RizzSentive
-File Sensitive Exposing
